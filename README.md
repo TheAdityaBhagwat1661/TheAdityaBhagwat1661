@@ -1,75 +1,82 @@
 # 👋 Hi, I'm Aditya Bhagwat
 
-🎓 Student at **Pune Institute of Computer Technology**
+### 🎓 Engineering Student | ⚡ VLSI & FPGA Enthusiast | 💻 Developer
 
-💻 Interested in **VLSI, FPGA, Digital Electronics & Programming**
+<p align="left">
 
-🌱 Currently learning **Verilog, Vivado, FPGA Development & C++**
+![Profile Views](https://komarev.com/ghpvc/?username=TheAdityaBhagwat1661&label=Profile%20Views&color=0e75b6&style=flat)
 
----
+![Followers](https://img.shields.io/github/followers/TheAdityaBhagwat1661?label=Followers&style=flat)
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheAdityaBhagwat1661&label=Profile%20Views&color=blue&style=flat)
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Engineering Student
-- 💡 Interested in Digital Design and VLSI
-- 🔧 Working with Verilog & Vivado
-- 💻 Exploring C++, Java and FPGA Development
-- 🚀 Always learning and building new projects
+🎓 Student at **Pune Institute of Computer Technology**
+
+⚡ Interested in **VLSI, FPGA & Digital Design**
+
+💻 Working with **Verilog, C++, Java & JavaScript**
+
+🔌 Exploring **FPGA Development and Digital Electronics**
+
+🔬 Building projects while learning **Hardware & Software**
+
+🌱 Currently learning **Xilinx Vivado & FPGA Development**
 
 ---
 
-## 🛠️ Skills & Technologies
+## ⚡ Tech Stack
 
-### Programming
-- C++
-- Java
-- Verilog
+### 💻 Programming Languages
 
-### VLSI & Digital Design
-- Digital Electronics
-- FPGA
-- Verilog HDL
-- Vivado
-- Logic Design
+<p align="left">
 
-### Tools
-- Git
-- GitHub
-- Xilinx Vivado
-- LT Spice 
-- Proteus 
-- MPlab
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
 
----
+</p>
 
-## 📫 Reach Me
+### 🔌 VLSI & Digital Design
 
-📧 **Email:** adityarajkumarbhagwat@gmail.com
+<p align="left">
 
-💼 **LinkedIn:**  
-[Aditya Bhagwat](https://www.linkedin.com/in/aditya-bhagwat-7741ba347/)
+<img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white"/>
+<img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Electronics-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logic%20Design-6A1B9A?style=for-the-badge"/>
 
-🐙 **GitHub:**  
-[TheAdityaBhagwat1661](https://github.com/TheAdityaBhagwat1661)
+</p>
 
----
+### 🛠️ Tools & Software
 
-## 📊 GitHub Stats
+<p align="left">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAdityaBhagwat1661&show_icons=true&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="50"/>
 
----
+</p>
 
-## 🔥 Contribution Streak
+<p align="left">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TheAdityaBhagwat1661&theme=tokyonight)
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proteus-1B75BB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MPLAB%20X-00599C?style=for-the-badge"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🚀 What I'm Learning
+
+```text
+VLSI Design          █████████░░   Learning
+FPGA Development     ████████░░░   Learning
+Verilog HDL          █████████░░   Learning
+Digital Electronics  █████████░░   Learning
+C++                  ████████░░░   Learning
+Java                 ██████░░░░░   Learning
+JavaScript            ██████░░░░░   Learning
