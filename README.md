@@ -14,7 +14,7 @@
 
 ![Followers](https://img.shields.io/github/followers/TheAdityaBhagwat1661?label=Followers&style=flat)
 
-![GitHub Stars](https://img.shields.io/github/stars/TheAdityaBhagwat1661?label=Stars&style=flat)
+![Stars](https://img.shields.io/github/stars/TheAdityaBhagwat1661?label=Stars&style=flat)
 
 </p>
 
@@ -38,12 +38,32 @@
 
 ---
 
+# 📫 CONTACT ME
+
+<p align="center">
+
+<a href="mailto:adityarajkumarbhagwat@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-adityarajkumarbhagwat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-bhagwat-7741ba347/">
+<img src="https://img.shields.io/badge/LINKEDIN-The%20Aditya%20Bhagwat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TheAdityaBhagwat1661">
+<img src="https://img.shields.io/badge/GITHUB-The%20Aditya%20Bhagwat-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 ## ⚡ Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp,java" height="55"/>
 </p>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -67,7 +87,7 @@
 ### 🛠️ Tools & Software
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
 </p>
 
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge)
@@ -88,31 +108,3 @@
 🔧 Circuit Simulation
 🖥️ Embedded Systems
 🚀 Hardware + Software Integration
-
----
-
-## 📫 CONTACT ME
-
-<p align="center">
-
-<a href="mailto:adityarajkumarbhagwat@gmail.com">
-<img src="https://img.shields.io/badge/Email-adityarajkumarbhagwat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aditya-bhagwat-7741ba347/">
-<img src="https://img.shields.io/badge/LinkedIn-The%20Aditya%20Bhagwat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TheAdityaBhagwat1661">
-<img src="https://img.shields.io/badge/GitHub-The%20Aditya%20Bhagwat-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-📧 **Email:** adityarajkumarbhagwat@gmail.com  
-💼 **LinkedIn:** The Aditya Bhagwat  
-🐙 **GitHub:** TheAdityaBhagwat1661
-
-</p>
