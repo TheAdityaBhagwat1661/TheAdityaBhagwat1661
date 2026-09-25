@@ -19,7 +19,7 @@
 - 🎓 Engineering Student
 - 💡 Interested in Digital Design and VLSI
 - 🔧 Working with Verilog & Vivado
-- 💻 Exploring C++, JavaScript and FPGA Development
+- 💻 Exploring C++, Java and FPGA Development
 - 🚀 Always learning and building new projects
 
 ---
