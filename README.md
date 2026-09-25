@@ -28,7 +28,7 @@
 
 ### Programming
 - C++
-- JavaScript
+- Java
 - Verilog
 
 ### VLSI & Digital Design
@@ -42,6 +42,9 @@
 - Git
 - GitHub
 - Xilinx Vivado
+- LT Spice 
+- Proteus 
+- MPlab
 
 ---
 
