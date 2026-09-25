@@ -88,3 +88,31 @@
 🔧 Circuit Simulation
 🖥️ Embedded Systems
 🚀 Hardware + Software Integration
+
+---
+
+## 📫 CONTACT ME
+
+<p align="center">
+
+<a href="mailto:adityarajkumarbhagwat@gmail.com">
+<img src="https://img.shields.io/badge/Email-adityarajkumarbhagwat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-bhagwat-7741ba347/">
+<img src="https://img.shields.io/badge/LinkedIn-The%20Aditya%20Bhagwat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TheAdityaBhagwat1661">
+<img src="https://img.shields.io/badge/GitHub-The%20Aditya%20Bhagwat-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 **Email:** adityarajkumarbhagwat@gmail.com  
+💼 **LinkedIn:** The Aditya Bhagwat  
+🐙 **GitHub:** TheAdityaBhagwat1661
+
+</p>
